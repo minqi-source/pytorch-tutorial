@@ -4,7 +4,8 @@ from torch.utils.data import DataLoader
 from torchvision import transforms
 from torchvision.datasets import ImageFolder
 
-print("000")
+print("1111")
+print("13333")
 # define a transform
 transform = transforms.Compose([
     transforms.Grayscale(),
